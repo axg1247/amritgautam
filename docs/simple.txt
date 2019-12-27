@@ -1,0 +1,13 @@
+		                 Linear Algebra
+		                 Engineering Economy 
+		                 Computer Organization 
+		                 Computer Architecture 
+		                 Computer Science I & II 
+		                 Circuit Analysis I & II 
+		                 Applied Programming in C  
+		                 Digital Signal Processing 
+		                 Discrete math for computing  
+		                 Digital System Design I & II 
+		                 Probability and Statistics I
+                                Intro to Software Engineering 
+		                 Interface & Digital Electronic 
