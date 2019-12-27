@@ -214,6 +214,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   color:#F0FFFF;
   padding-top:16em;
   text-decoration: none;
+  display: flex;
 }
 
 
