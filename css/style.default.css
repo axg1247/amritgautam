@@ -767,6 +767,9 @@ footer.main-footer p.social a.gplus {
 footer.main-footer p.social a.linkedin {
   background-color:   #5F9EA0 ;
 }
+footer.main-footer p.social a.github {
+    background-color:   #ffffff ;
+}
 
 footer.main-footer p.social a.email {
   background-color: #4a7f45;
