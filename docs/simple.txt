@@ -9,5 +9,10 @@
 		                 Discrete math for computing  
 		                 Digital System Design I & II 
 		                 Probability and Statistics I
-                                Intro to Software Engineering 
+                                *Intro to Software Engineering 
 		                 Interface & Digital Electronic 
+				 *Multidisciplinary senior design
+				 *Digital ic design
+				 *Data and communication networks
+				 
+				 *Currently Taking 
